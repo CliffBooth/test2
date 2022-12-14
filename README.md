@@ -1,3 +1,7 @@
+main branch [![Tests](https://github.com/CliffBooth/test2/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/CliffBooth/test2/actions/workflows/test.yml)
+
+develop branch [![Tests](https://github.com/wooffie/converter/actions/workflows/gradle-tests.yml/badge.svg?branch=master)](https://github.com/wooffie/converter/actions/workflows/gradle-tests.yml)
+
 
 # test2
 blah blah blah
